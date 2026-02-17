@@ -1,95 +1,95 @@
 /**
- * Visual Artist Portfolio - Main JavaScript
+ * Researcher Portfolio - Robotics & AI - Main JavaScript
  * Handles all interactive functionality
  */
 
 // ============================================
-// Gallery Data
+// Research Data
 // ============================================
 const galleryData = [
     {
         id: 1,
-        title: "Luz Eterna",
-        category: "pintura",
+        title: "Autonomous Navigation in Dynamic Environments",
+        category: "publications",
         image: "images/gallery/obra-01.jpg",
-        description: "Óleo sobre lienzo - 120x80cm"
+        description: "Published in IEEE Robotics and Automation Letters - 2025"
     },
     {
         id: 2,
-        title: "Formas Abstractas III",
-        category: "escultura",
+        title: "Deep Learning for Robot Vision",
+        category: "projects",
         image: "images/gallery/obra-02.jpg",
-        description: "Bronce y mármol - 45x30x25cm"
+        description: "Research Project - University of León Robotics Group"
     },
     {
         id: 3,
-        title: "Atardecer en Barcelona",
-        category: "fotografia",
+        title: "Control Strategies for Mobile Robots",
+        category: "conferences",
         image: "images/gallery/obra-03.jpg",
-        description: "Fotografía digital - 50x70cm"
+        description: "ICRA 2025 - International Conference on Robotics and Automation"
     },
     {
         id: 4,
-        title: "Sueños Digitales",
-        category: "digital",
+        title: "SLAM Algorithms for Autonomous Systems",
+        category: "publications",
         image: "images/gallery/obra-04.jpg",
-        description: "Arte digital - 3840x2160px"
+        description: "Published in Journal of Intelligent & Robotic Systems - 2024"
     },
     {
         id: 5,
-        title: "Rojo Passion",
-        category: "pintura",
+        title: "Computer Vision for Robotic Manipulation",
+        category: "projects",
         image: "images/gallery/obra-05.jpg",
-        description: "Acrílico sobre lienzo - 100x100cm"
+        description: "Ongoing Research Project - Robotics Group"
     },
     {
         id: 6,
-        title: "Equilibrio",
-        category: "escultura",
+        title: "Machine Learning in Automation Systems",
+        category: "conferences",
         image: "images/gallery/obra-06.jpg",
-        description: "Acero inoxidable - 60x40x40cm"
+        description: "IROS 2024 - Intelligent Robots and Systems Conference"
     },
     {
         id: 7,
-        title: "Urban Life",
-        category: "fotografia",
+        title: "Sensor Fusion for Autonomous Navigation",
+        category: "publications",
         image: "images/gallery/obra-07.jpg",
-        description: "Fotografía analógica - 40x60cm"
+        description: "Published in Robotics and Autonomous Systems - 2024"
     },
     {
         id: 8,
-        title: "Nebulosa",
-        category: "digital",
+        title: "Path Planning in Complex Environments",
+        category: "projects",
         image: "images/gallery/obra-08.jpg",
-        description: "Arte digital generado por IA - 4096x4096px"
+        description: "PhD Research Project - University of León"
     },
     {
         id: 9,
-        title: "Azul Profundo",
-        category: "pintura",
+        title: "Neural Networks for Robot Control",
+        category: "conferences",
         image: "images/gallery/obra-09.jpg",
-        description: "Acuarela sobre papel - 56x76cm"
+        description: "CoRL 2024 - Conference on Robot Learning"
     },
     {
         id: 10,
-        title: "Morfología",
-        category: "escultura",
+        title: "Real-time Object Detection for Robotics",
+        category: "publications",
         image: "images/gallery/obra-10.jpg",
-        description: "Resina y vidrio - 35x35x50cm"
+        description: "Published in CVPR 2024 Workshop - 2024"
     },
     {
         id: 11,
-        title: "Calles de Madrid",
-        category: "fotografia",
+        title: "Multi-agent Robotic Systems",
+        category: "projects",
         image: "images/gallery/obra-11.jpg",
-        description: "Fotografía digital - 60x40cm"
+        description: "Collaborative Research Project"
     },
     {
         id: 12,
-        title: "Fractales",
-        category: "digital",
+        title: "Human-Robot Interaction Studies",
+        category: "conferences",
         image: "images/gallery/obra-12.jpg",
-        description: "Arte algorítmico - 1920x1080px"
+        description: "HRI 2024 - ACM/IEEE International Conference"
     }
 ];
 

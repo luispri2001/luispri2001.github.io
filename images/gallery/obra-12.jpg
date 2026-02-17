@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <defs><pattern id="p12" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="#1a1a2e"/><circle cx="10" cy="10" r="2" fill="#C9A962" opacity="0.3"/></pattern></defs>
+  <rect width="400" height="300" fill="url(#p12)"/>
+  <path d="M0,0 L400,0 L400,300 L0,300 Z" fill="url(#p12)"/>
+  <circle cx="200" cy="150" r="80" fill="none" stroke="#C9A962" stroke-width="1" opacity="0.5"/>
+  <circle cx="200" cy="150" r="60" fill="none" stroke="#C9A962" stroke-width="1" opacity="0.4"/>
+  <circle cx="200" cy="150" r="40" fill="none" stroke="#C9A962" stroke-width="1" opacity="0.3"/>
+  <text x="200" y="155" font-family="serif" font-size="16" fill="#888" text-anchor="middle">Obra 12</text>
+</svg>

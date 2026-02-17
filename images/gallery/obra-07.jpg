@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#1f2d3d"/>
+  <rect x="0" y="200" width="400" height="100" fill="#3d5a80" opacity="0.5"/>
+  <rect x="50" y="100" width="80" height="100" fill="#98c1d9" opacity="0.4"/>
+  <rect x="180" y="80" width="60" height="120" fill="#ee6c4d" opacity="0.3"/>
+  <text x="200" y="155" font-family="serif" font-size="16" fill="#888" text-anchor="middle">Obra 7</text>
+</svg>

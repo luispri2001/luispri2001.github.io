@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#1a1a1a"/>
+  <ellipse cx="200" cy="150" rx="80" ry="120" fill="#C9A962" opacity="0.2"/>
+  <rect x="140" y="60" width="120" height="180" fill="none" stroke="#8B7355" stroke-width="2"/>
+  <text x="200" y="155" font-family="serif" font-size="16" fill="#888" text-anchor="middle">Obra 10</text>
+</svg>

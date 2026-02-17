@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="50%" style="stop-color:#16213e"/>
+      <stop offset="100%" style="stop-color:#0f3460"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#C9A962"/>
+      <stop offset="stop-color:#8100%" style="B7355"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#bg)"/>
+  <circle cx="960" cy="540" r="300" fill="none(#accent)" stroke" stroke="url-width="1" opacity="0.3"/>
+  <circle cx="960" cy="540" r="200" fill="none" stroke="url(#accent)" stroke-width="1" opacity="0.5"/>
+  <polygon points="960,300 1000,450 1150,450 1030,540 1080,690 960,600 840,690 890,540 770,450 920,450" fill="none" stroke="url(#accent)" stroke-width="1" opacity="0.4"/>
+  <text x="960" y="520" font-family="serif" font-size="40" fill="#C9A962" text-anchor="middle" opacity="0.6">Hero Image</text>
+  <text x="960" y="570" font-family="sans-serif" font-size="18" fill="#A0A0A0" text-anchor="middle">Replace with your artwork</text>
+</svg>

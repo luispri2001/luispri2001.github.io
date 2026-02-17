@@ -1,0 +1,50 @@
+# ============================================
+# Git Ignore - Visual Artist Portfolio
+# ============================================
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Archivos de editor
+.vscode/
+.idea/
+*.sublime-*
+
+# Logs
+*.log
+logs/
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Caché
+.cache/
+node_modules/ (si se usa algún build tool)
+
+# Imágenes originales (si tienes原始)
+# Descomenta si deseas ignorar tus imágenes originales
+# originals/
+# raw/
+
+# Archivos de build (si aplica)
+# dist/
+# build/
+
+# Entornos
+.env
+.env.local
+.env.*.local
+
+# Dependencias de npm (si aplica)
+# package-lock.json
+# yarn.lock
+
+# ============================================
+# Nota: Las imágenes en images/ deben ser 
+# rastreadas por git para GitHub Pages
+# ============================================
